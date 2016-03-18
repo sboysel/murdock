@@ -1,0 +1,3 @@
+#' Murdock Ethnographic Atlas
+#'
+"murdock"

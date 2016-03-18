@@ -1,5 +1,6 @@
 packrat/
 .Rproj.user
 .Rprofile
+.Rhistory
 packrat/lib*/
 packrat/src/

@@ -1,4 +1,5 @@
 library(rgdal)
+library(sp)
 
 murdock <- rgdal::readOGR(dsn = "data-raw/Murdock_EA_2011_vkZ.geojson",
                           layer = "OGRGeoJSON")
@@ -6,6 +7,7 @@ murdock <- rgdal::readOGR(dsn = "data-raw/Murdock_EA_2011_vkZ.geojson",
 ## Clean
 # Drop any unlabeled shapes
 murdock <- murdock[!is.na(murdock$NAME),]
+murdock <- sp::spChFIDs(murdock, as.character(murdock$NAME))
 
 ## TODO: relabel variables
 

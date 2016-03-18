@@ -24,7 +24,7 @@ Preview the [source data](https://github.com/sboysel/murdock/blob/master/data-ra
 
 ## TODO:
 
-- [] Clean and check object for errors
-- [] Document object
-- [] Relabel variables or provide codebook
+- [ ] Clean and check object for errors
+- [ ] Document object
+- [ ] Relabel variables or provide codebook
 

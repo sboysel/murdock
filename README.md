@@ -2,8 +2,8 @@
 
 [![Travis-CI Build Status](https://travis-ci.org/sboysel/murdock.svg?branch=master)](https://travis-ci.org/sboysel/murdock)
 
-Murdock (1967) Ethnographic Atlas for African Continent packaged for `R` as a 
-`SpatialPolygonsDataFrame` object.
+[Murdock (1967)](http://www.jstor.org/stable/3772751) Ethnographic Atlas for 
+African Continent packaged for `R` as a `SpatialPolygonsDataFrame` object.
 
 ## Usage
 Install from GitHub and load package with `library`.  You will then be able to 

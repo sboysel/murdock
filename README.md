@@ -1,6 +1,9 @@
 # murdock
 
 [![Travis-CI Build Status](https://travis-ci.org/sboysel/murdock.svg?branch=master)](https://travis-ci.org/sboysel/murdock)
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img
+alt="Creative Commons License" style="border-width:0"
+src="https://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a>
 
 [Murdock (1967)](http://www.jstor.org/stable/3772751) Ethnographic Atlas for 
 African Continent packaged for `R` as a `SpatialPolygonsDataFrame` object.

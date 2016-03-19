@@ -14,5 +14,5 @@ Suggests:
   rgeos,
   ggplot2
 LazyData: TRUE
-License: CC0
+License: CC BY-NC-SA 3.0
 RoxygenNote: 5.0.1

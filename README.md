@@ -5,8 +5,12 @@
 alt="Creative Commons License" style="border-width:0"
 src="https://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a>
 
-[Murdock (1967)](http://www.jstor.org/stable/3772751) Ethnographic Atlas for 
-African Continent packaged for `R` as a `SpatialPolygonsDataFrame` object.
+[Murdock (1959)](http://core.tdar.org/document/85572) Ethnographic Atlas merged 
+with [Human Relations Area Files](http://hraf.yale.edu/) data for the African 
+Continent packaged for `R` as a `SpatialPolygonsDataFrame` object.  This is simply
+a repackaging of the dataset that can be attributed to George Murdock, [Suzanne 
+Blier](http://scholar.harvard.edu/blier/home), and 
+[Nathan Nunn](http://scholar.harvard.edu/nunn/home). Preview the [source spatial data](https://github.com/sboysel/murdock/blob/master/data-raw/Murdock_EA_2011_vkZ.geojson).
 
 ## Usage
 Install from GitHub and load package with `library`.  You will then be able to 
@@ -17,8 +21,6 @@ library(murdock)
 #> Loading murdock
 #> Loading required package: sp
 ```
-
-Preview the [source data](https://github.com/sboysel/murdock/blob/master/data-raw/Murdock_EA_2011_vkZ.geojson).
 
 ## Source
 

@@ -5,11 +5,12 @@
 alt="Creative Commons License" style="border-width:0"
 src="https://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a>
 
-[Murdock (1959)](http://core.tdar.org/document/85572)[] Ethnographic Atlas merged 
-with [Human Relations Area Files](http://hraf.yale.edu/) data for the African 
-Continent packaged for `R` as a `SpatialPolygonsDataFrame` object.  This is simply
-a repackaging of the dataset that can be attributed to George Murdock, [Suzanne 
-Blier](http://scholar.harvard.edu/blier/home), and 
+[G. P. Murdock's (1959)](http://core.tdar.org/document/85572) ethnolinguistic map for 
+the African continent packaged for `R` as a `SpatialPolygonsDataFrame` object.  
+Fortified with data from Murdock's [*Ethnographic Atlas*
+(1967)](http://www.jstor.org/stable/3772751) linked to the [Human Relations 
+Area Files](http://hraf.yale.edu/). This is simply a repackaging of [the orignial dataset](https://worldmap.harvard.edu/data/geonode:Murdock_EA_2011_vkZ)
+that can be attributed to George Murdock, [Suzanne Blier](http://scholar.harvard.edu/blier/home), and 
 [Nathan Nunn](http://scholar.harvard.edu/nunn/home). Preview the [source spatial data](https://github.com/sboysel/murdock/blob/master/data-raw/Murdock_EA_2011_vkZ.geojson).
 
 ## Usage

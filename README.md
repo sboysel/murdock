@@ -5,7 +5,7 @@
 alt="Creative Commons License" style="border-width:0"
 src="https://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a>
 
-[Murdock (1959)](http://core.tdar.org/document/85572) Ethnographic Atlas merged 
+[Murdock (1959)](http://core.tdar.org/document/85572)[] Ethnographic Atlas merged 
 with [Human Relations Area Files](http://hraf.yale.edu/) data for the African 
 Continent packaged for `R` as a `SpatialPolygonsDataFrame` object.  This is simply
 a repackaging of the dataset that can be attributed to George Murdock, [Suzanne 
@@ -37,7 +37,7 @@ From [Harvard WorldMap](https://worldmap.harvard.edu/data/geonode:Murdock_EA_201
 > Professor Nathan Nunn, from "Tribal Map of Africa" a fold out map from the 
 > book ["Africa: Its peoples and Their Culture History"](http://www.worldcat.org/oclc/224494) 
 > by George Murdock, 1959.  Coastlines from the 
-> [Digital Chart of the World](http://www.worldcat.org/oclc/26783779http://en.wikipedia.org/wiki/Digital_Chart_of_the_World) 
+> [Digital Chart of the World](http://www.worldcat.org/oclc/26783779) 
 > were used to replace the coastlines in the Murdock map.  Harvard professor 
 > Suzanne Blier, with the assistance of graduate student Julia Finkelstien added 
 > attribute data from Human Area Relations Files (HRAF). CGA GIS scientist, Anna 

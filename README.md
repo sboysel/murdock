@@ -47,11 +47,11 @@ From [Harvard WorldMap](https://worldmap.harvard.edu/data/geonode:Murdock_EA_201
 > Ben Lewis of the Harvard Center for Geographic Analysis.
 
 * [Data](https://worldmap.harvard.edu/data/geonode:Murdock_EA_2011_vkZ)
-* [Codebook](http://intersci.ss.uci.edu/wiki/index.php/Ethnographic_Atlas#Rdata_format_version_of_Ethnographic_Atlas)
+* [Codebook](http://eclectic.ss.uci.edu/~drwhite/worldcul/Codebook4EthnoAtlas.pdf)
 
 ## TODO:
 
 - [ ] Clean and check object for errors
 - [ ] Document object
-- [ ] Relabel variables or provide codebook
+- [x] Relabel variables or provide codebook
 

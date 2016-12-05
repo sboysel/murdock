@@ -3,3 +3,5 @@
 language: r
 warnings_are_errors: true
 sudo: required
+env:
+  - _R_CHECK_FORCE_SUGGESTS_=FALSE

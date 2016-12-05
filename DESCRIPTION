@@ -9,7 +9,8 @@ BugReports: https://github.com/sboysel/murdock/issues
 Description: Murdock (1967) Ethnographic Atlas for African Continent packaged
     for `R` as a `SpatialPolygonsDataFrame` object.
 Depends: 
-  R (>= 2.10),
+  R (>= 2.10)
+Imports:
   sp
 Suggests:
   rgeos,

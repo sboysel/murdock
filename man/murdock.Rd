@@ -4,7 +4,7 @@
 \name{murdock}
 \alias{murdock}
 \title{Murdock Ethnographic Atlas}
-\format{An object of class \code{SpatialPolygonsDataFrame} with 844 rows and 124 columns.}
+\format{An object of class \code{SpatialPolygonsDataFrame} with 843 rows and 124 columns.}
 \usage{
 murdock
 }

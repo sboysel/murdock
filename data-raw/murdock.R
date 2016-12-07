@@ -7,6 +7,7 @@ murdock <- rgdal::readOGR(dsn = "data-raw/Murdock_EA_2011_vkZ.geojson",
 ## Clean
 # Drop Angola coast shape
 murdock <- murdock[murdock$NAME != "Angola coast",]
+murdock$NAME <- droplevels(murdock$NAME)
 
 # Drop any unlabeled shapes
 murdock <- murdock[!is.na(murdock$NAME),]
